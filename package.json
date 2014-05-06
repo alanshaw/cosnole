@@ -1,0 +1,26 @@
+{
+  "name": "cosnole",
+  "version": "0.0.0",
+  "description": "Typo in console?",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alanshaw/cosnole.git"
+  },
+  "keywords": [
+    "console",
+    "typo"
+  ],
+  "author": "Alan Shaw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alanshaw/cosnole/issues"
+  },
+  "homepage": "https://github.com/alanshaw/cosnole",
+  "devDependencies": {
+    "tape": "^2.12.3"
+  }
+}
