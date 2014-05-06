@@ -1,0 +1,4 @@
+cosnole
+=======
+
+Typo in console?
